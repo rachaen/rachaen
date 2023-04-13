@@ -46,9 +46,7 @@
    ###  💙 SSAFY 8th
    ###  🇰🇷 Based on Gwanju,Korea
   <br/>
-   
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rachaen)](https://solved.ac/rachaen) 
-   <br/><br/>
+
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachaen&show_icons=true&theme=highconstrast)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachaen&layout=compact)](https://github.com/rachaen/github-readme-stats)   
  
