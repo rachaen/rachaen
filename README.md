@@ -24,8 +24,6 @@
 </div>
 
 <div align ="center">
-  
-   ###  💙 SSAFY 8th
   <br/>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachaen&layout=compact)](https://github.com/rachaen/github-readme-stats)   
